@@ -29,22 +29,18 @@ To run the notebooks and scripts in this repository, you will need the following
 You can install these dependencies using pip:
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas numpy matplotlib
 ```
 
 ## Usage
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/geraldsberongoy/InvestigatingNetflixMovies.git
+    ```sh
+    git clone https://github.com/geraldsberongoy/Project-Investigating-Netflix-Movies.git
     ```
 2. Navigate to the project directory:
-    ```bash
-    cd InvestigatingNetflixMovies
-    ```
-3. Open the Jupyter Notebook:
-    ```bash
-    jupyter notebook
+    ```sh
+    cd Project-Investigating-Netflix-Movies
     ```
 
 ## Acknowledgements
